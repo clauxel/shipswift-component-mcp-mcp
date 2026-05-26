@@ -1,0 +1,15 @@
+# ShipSwift Component MCP
+
+ShipSwift Component MCP is a hosted remote MCP for ShipSwift.
+
+Website: https://shipswiftcomponents.clauxel.com/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: ShipSwift
+Type: MCP
+Default plan: team
+MCP endpoint: https://shipswiftcomponents.clauxel.com/mcp
+Server card: https://shipswiftcomponents.clauxel.com/server-card.json
+Registry name: com.clauxel.shipswiftcomponents/shipswiftcomponents-mcp
+Tools: search_swiftui_component, generate_component_patch, validate_dependency_policy, export_component_receipt
+
+Public boundary: docs-only repository; no production source code or secrets.
